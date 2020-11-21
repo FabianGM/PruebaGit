@@ -6,5 +6,6 @@ namespace ProgramaPruebaGit
 {
     class Class2
     {
+        int a=1;
     }
 }
